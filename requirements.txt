@@ -1,0 +1,21 @@
+# Data handling
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter notebook
+jupyter
+
+# Machine Learning 
+scikit-learn
+
+# Dashboard 
+streamlit
+
+# save model
+joblib
+
+
