@@ -118,6 +118,8 @@ F1-score ensures risk-aware reliability.
 1. Trader historical win rate (strongest driver)
 2. Trade size / risk exposure
 3. Sentiment influence
+## Try the App
+https://vtwdhypncxl6ed78xjasdp.streamlit.app/
 
 ### Behavioral vs Sentiment Effects
 
