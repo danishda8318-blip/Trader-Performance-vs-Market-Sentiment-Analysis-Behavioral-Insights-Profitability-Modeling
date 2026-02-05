@@ -18,4 +18,7 @@ streamlit
 # save model
 joblib
 
+altair==4.2.2
+
+
 
